@@ -1,0 +1,4 @@
+This is a simple QtQuick sample application
+You need QtQuick 2.x / Qt 5.x !
+Use "qmlscene Board.qml" to open the game board.
+For more details see: en.wikipedia.org/wiki/15_puzzle .
